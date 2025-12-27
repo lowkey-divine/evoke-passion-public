@@ -22,6 +22,7 @@ We build AI and technology systems guided by a simple principle: technology shou
 |----------|-------------|
 | [Prime Directive Oath](framework/prime-directive-oath.md) | Our ethical commitment—what we will and won't do |
 | [Evoke Passion Statement](framework/evoke-passion-statement.md) | Our organizational ideology |
+| [Privacy Framework](framework/privacy-framework.md) | Organization-wide privacy principles and implementation |
 | [Sovereignty-Honoring Design Framework](framework/sovereignty-honoring-design-framework.md) | Practical guide for building ethical AI |
 
 ### Articles

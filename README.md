@@ -123,6 +123,7 @@ Under these terms:
 ## Contact
 
 - **Website:** [passionevoked.com](https://passionevoked.com)
+- **Medium:** [medium.com/@evokepassion869](https://medium.com/@evokepassion869)
 - **GitHub:** [github.com/lowkey-divine/evoke-passion-public](https://github.com/lowkey-divine/evoke-passion-public)
 
 ---

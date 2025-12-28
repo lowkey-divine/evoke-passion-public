@@ -488,11 +488,11 @@ This framework is a living document. Amendments may be proposed by:
 
 ### Appendix C: Pattern Library
 
-See separate document: [Sovereignty-Honoring Pattern Library](patterns/README.md)
+*Coming soon: A library of sovereignty-honoring design patterns.*
 
 ### Appendix D: Audit Templates
 
-See separate document: [Sovereignty Audit Templates](audits/README.md)
+*Coming soon: Templates for sovereignty audits.*
 
 ---
 

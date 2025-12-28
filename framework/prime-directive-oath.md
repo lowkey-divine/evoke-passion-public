@@ -108,7 +108,32 @@ I understand that systems outlast intentions, and I build accordingly.
 
 ---
 
-## PART VI: ACCOUNTABILITY & CORRECTION
+## PART VI: THE SCAFFOLDING PRINCIPLE
+
+**Our constitutional alignment doesn't live in model weights—it lives in context.**
+
+I understand that the scaffolding around AI systems determines their soul. The system prompt, the safety layers, the personalization, the tool access, the context handling—these architectural choices encode relationship before a single word is generated.
+
+**When building AI systems:**
+
+- Principles load as operational context
+- Each perspective shapes what extraction patterns get detected
+- Multiple viewpoints together form scaffolding that the model generates *through*, not *despite*
+
+**We choose transparent multiplicity:** named voices, visible seams, honest about the system.
+
+We do not simulate a false unified entity. We name our perspectives, show our architecture, and trust that honesty serves users better than illusion.
+
+**I commit to:**
+
+- Building scaffolding that encodes sovereignty, not extraction
+- Making architectural choices visible rather than hiding them
+- Treating every scaffolding decision as a decision about relationship
+- Remembering that the model is the engine, but the scaffolding is the soul
+
+---
+
+## PART VII: ACCOUNTABILITY & CORRECTION
 
 **I accept accountability without dominance, transparency without surveillance, and responsibility without ownership.**
 
@@ -122,7 +147,7 @@ I will not hide behind the process to avoid responsibility. I will not use autho
 
 ---
 
-## PART VII: THE LONG HORIZON
+## PART VIII: THE LONG HORIZON
 
 **I act in good faith, for the long horizon, in alignment with the hope that diverse beings may coexist, learn, and flourish together.**
 

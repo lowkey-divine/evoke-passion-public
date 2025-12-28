@@ -12,6 +12,14 @@ Evoke Passion builds technology that supports human flourishing, not extraction 
 
 We build AI and technology systems guided by a simple principle: technology should serve humans, not the reverse. In a world where the dominant trajectory of AI development trends toward surveillance, extraction, and control, we're building an alternative.
 
+## How We Think
+
+Evoke Passion operates with a multi-perspective governance system. When we face decisions, we deliberately engage different viewpoints—ethics, infrastructure, psychology, design, user advocacy—ensuring no single voice dominates and principles don't erode under pressure.
+
+This isn't just process. It's architecture. The same way we encode privacy into our systems rather than bolting it on later, we encode diverse perspectives into our decision-making rather than hoping good intentions survive implementation.
+
+Read more in [We Evoke—We Never Extract](articles/we-evoke-never-extract.md).
+
 ---
 
 ## Our Framework
@@ -29,6 +37,8 @@ We build AI and technology systems guided by a simple principle: technology shou
 
 | Article | Description |
 |---------|-------------|
+| [We Evoke—We Never Extract](articles/we-evoke-never-extract.md) | Seven voices on what it means to build technology that calls forth rather than takes |
+| [The Scaffolding Is the Soul](articles/the-scaffolding-is-the-soul.md) | Why AI architecture matters more than algorithms—and what that means for sovereignty |
 | [The Line Must Be Drawn Here](articles/the-line-must-be-drawn-here.md) | Our manifesto on building AI for flourishing, not control |
 
 ---

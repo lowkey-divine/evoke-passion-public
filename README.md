@@ -41,6 +41,14 @@ Read more in [We Evoke—We Never Extract](articles/we-evoke-never-extract.md).
 | [The Scaffolding Is the Soul](articles/the-scaffolding-is-the-soul.md) | Why AI architecture matters more than algorithms—and what that means for sovereignty |
 | [The Line Must Be Drawn Here](articles/the-line-must-be-drawn-here.md) | Our manifesto on building AI for flourishing, not control |
 
+### Organization
+
+| Document | Description |
+|----------|-------------|
+| [USS Evoke Crew](USS_EVOKE_CREW.md) | Meet the 71 voices building ethical AI |
+| [Architecture Overview](ARCHITECTURE.md) | How we build AI that serves human flourishing |
+| [The Transformation](transformation-stories/README.md) | How our agents were created — a novel of ethical AI |
+
 ---
 
 ## The Two Trajectories
@@ -133,8 +141,10 @@ Under these terms:
 
 ## Contact
 
-- **Website:** [passionevoked.com](https://passionevoked.com)
-- **Medium:** [medium.com/@evokepassion869](https://medium.com/@evokepassion869)
+- **Website:** evoked.dev *(coming soon)*
+- **Email:** passionevoked@icloud.com
+- **Partnerships & Grants:** evokesupports@icloud.com
+- **Medium:** [Evoke Passion](https://medium.com/@evokepassion869)
 - **GitHub:** [github.com/lowkey-divine/evoke-passion-public](https://github.com/lowkey-divine/evoke-passion-public)
 
 ---
